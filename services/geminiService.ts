@@ -20,10 +20,10 @@ export const analyzeJob = async (data: JobFormData): Promise<AnalysisResult> => 
   {
     "score": number, // 0-100, 结合各项指标打分
     "tier": string, // 例如：青铜搬砖工, 钻石打工人, 王者合伙人
-    "rankTitle": string, // 例如：也就是个混口饭吃, 简直是神仙工作
+    "rankTitle": string, // 例如：也就是个混口饭吃, 简直是神仙工作，当然，不只局限于这两个，你可以再细化一下
     "percentile": number, // 0-99, 击败了多少人
-    "analysis": string, // 客观理性的评价，300字左右
-    "sharpAnalysis": string, // 毒舌、幽默、一针见血的吐槽，像脱口秀演员一样
+    "analysis": string, // 客观理性的评价，400字左右
+    "sharpAnalysis": string, // 毒舌、幽默、一针见血的吐槽，像脱口秀演员一样，不要顾及我的面子，使劲骂
     "pros": string[], // 3-4个核心优势
     "cons": string[], // 3-4个主要劣势
     "radarData": [ // 必须包含以下5个维度的具体数值(0-100)
