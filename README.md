@@ -72,7 +72,7 @@ npm run dev
 npm run build
 ```
 
-构建生成的 `dist` 目录可部署到任何静态托管服务（如 Nginx, Vercel, Netlify）。
+构建生成的 `dist` 目录可部署到任何静态托管服务（如[Vercel](https://vercel.com/)
 
 **在 Vercel 上部署:**
 1. 导入项目。
@@ -90,16 +90,18 @@ npm run build
 只需在 `.env` 中修改：
 
 ```env
-API_KEY=your_deepseek_key
-API_BASE_URL=https://api.deepseek.com/v1
-API_MODEL=deepseek-chat
+API_KEY=你的API KEY
+API_BASE_URL=API地址
+API_MODEL=模型名称
 ```
 
 ---
 
 ## 📄 协议
 
-MIT License. 仅供娱乐与参考，请理性看待职业发展。
+MIT License. 
+
+###本项目仅供娱乐与参考，请理性看待职业发展。
 
 
 除了这一行之外，其他的均由Google Gemini 3 Preview完成
