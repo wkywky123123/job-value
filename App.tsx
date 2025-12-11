@@ -121,7 +121,7 @@ const App: React.FC = () => {
                <span className="hidden sm:inline">历史记录</span>
              </button>
              <div className="text-sm text-slate-400 hidden md:block border-l border-gray-300 dark:border-slate-700 pl-4">
-                kimi-k2-thinking
+               kimi-k2-0905-preview
              </div>
           </div>
         </div>
