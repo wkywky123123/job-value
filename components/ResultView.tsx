@@ -295,7 +295,7 @@ https://job.mrgeda.top/`;
             </div>
             
             <div className="mt-8 pt-4 border-t border-gray-200 dark:border-slate-700/50 text-center text-slate-400 dark:text-slate-500 text-xs">
-              Powered by Job Value Calculator AI
+              Powered by Kimi
             </div>
           </div>
         </div>
