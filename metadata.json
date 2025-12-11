@@ -1,0 +1,5 @@
+{
+  "name": "Job Value Calculator",
+  "description": "A smart calculator that evaluates your job's cost-performance ratio using AI, considering salary, commute, location, and work-life balance.",
+  "requestFramePermissions": []
+}
