@@ -44,7 +44,8 @@ const ResultView: React.FC<ResultViewProps> = ({ result, onReset }) => {
 ----------------
 ${tone === 'objective' ? result.analysis : result.sharpAnalysis}
 ----------------
-快来测测你的工作值不值！`;
+快来测测你的工作值不值！
+https://job.mrgeda.top/`;
     
     try {
       await navigator.clipboard.writeText(text);
