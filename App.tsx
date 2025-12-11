@@ -121,7 +121,7 @@ const App: React.FC = () => {
                <span className="hidden sm:inline">历史记录</span>
              </button>
              <div className="text-sm text-slate-400 hidden md:block border-l border-gray-300 dark:border-slate-700 pl-4">
-                Google Gemini x Kimi
+                kimi-k2-thinking
              </div>
           </div>
         </div>
